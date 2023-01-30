@@ -25,7 +25,7 @@ export default function Footer() {
 
           <div>
             <a
-              href="https://karanmalviya.vercel.app"
+              href="https://major-project-2l35r1h02-chaman21.vercel.app/explore"
               className="me-4 text-reset">
               <BsGlobe />
             </a>
@@ -41,12 +41,12 @@ export default function Footer() {
               <BsInstagram />
             </a>
             <a
-              href="https://www.linkedin.com/in/karanmalviya1/"
+              href="https://www.linkedin.com/in/ashutoshsinghyadav/"
               className="me-4 text-reset">
               <BsLinkedin />
             </a>
             <a
-              href="https://github.com/Karanmalviya"
+              href="https://github.com/chaman21/major-project"
               className="me-4 text-reset">
               <BsGithub />
             </a>
@@ -77,21 +77,21 @@ export default function Footer() {
                 </p>
                 <p>
                   <a
-                    href="https://github.com/Karanmalviya/Rythm-The-Music-Player.git"
+                    href="https://github.com/chaman21/major-project"
                     className="text-reset">
                     Rythm Music
                   </a>
                 </p>
                 <p>
                   <a
-                    href="https://github.com/Karanmalviya/Covid_Traker_Application.git"
+                    href="https://github.com/chaman21/major-project"
                     className="text-reset">
                     Coronavirus Tracker
                   </a>
                 </p>
                 <p>
                   <a
-                    href="https://github.com/Karanmalviya/Memes-extension.git"
+                    href="https://github.com/chaman21/major-project"
                     className="text-reset">
                     Meme Extension
                   </a>
@@ -148,8 +148,8 @@ export default function Footer() {
           © 2021 Copyright:
           <a
             className="text-reset fw-bold"
-            href="https://karanmalviya.vercel.app/">
-            &nbsp;karanmalviya.vercel.app
+            href="https://major-project-2l35r1h02-chaman21.vercel.app/explore">
+            &nbsp;chaman21.vercel.app
           </a>
         </div>
       </footer>
