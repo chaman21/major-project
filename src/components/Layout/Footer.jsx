@@ -59,12 +59,14 @@ export default function Footer() {
               <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                 <h2 className="text-uppercase fw-bold mb-2 footer-logo-content">
                   <GiSpookyHouse className="footer-logo" />
-                  <p className="logo-text">Bucks</p>
+                  <p className="logo-text">Arceus</p>
                 </h2>
                 <p>
-                  Here you can use rows and columns to organize your footer
-                  content. Lorem ipsum dolor sit amet, consectetur adipisicing
-                  elit.
+                  At House Cart, we understand that people everywhere are 
+    searching for a home to call their own. We want to make 
+    this search as joyful as finally finding the perfect 
+    home because we understand that finding a home is much 
+    more than an online search!
                 </p>
               </div>
 
@@ -149,7 +151,7 @@ export default function Footer() {
           <a
             className="text-reset fw-bold"
             href="https://major-project-2l35r1h02-chaman21.vercel.app/explore">
-            &nbsp;chaman21.vercel.app
+            &nbsp;Arceus.vercel.app
           </a>
         </div>
       </footer>
